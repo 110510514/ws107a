@@ -1,0 +1,14 @@
+{
+  "name": "belle19990307",
+  "version": "0.0.1",
+  "description": "Reimplement lodash function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "belle19990307"
+  ],
+  "author": "belle19990307",
+  "license": "MIT"
+}
